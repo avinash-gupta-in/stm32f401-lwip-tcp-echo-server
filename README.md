@@ -47,7 +47,10 @@ TCP Server in lwIP
   Baud Rate: 115200 (8N1)
   PA2 (TX)
   PA3 (RX)
+  
 ![Output of the program (on Serial Terminal)](http://extremeelectronics.co.in/github/stm32-lwip/tcp-echo-server-stm32-lwip-realterm.png)
+
 Using Hercules TCP Client to send data to our server for testing.
+
 ![Hercules used for testing our TCP server ](http://extremeelectronics.co.in/github/stm32-lwip/tcp-echo-server-stm32-lwip-hercules.png)
 
